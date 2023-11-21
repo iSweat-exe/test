@@ -26,14 +26,14 @@ Si vous appréciez mon travail et souhaitez me soutenir financièrement, vous po
 - [PayPal Me](lien_vers_votre_profil_paypalme)
 - [Autre Plateforme de Don](lien_vers_autre_plateforme_de_don)
 
-Votre soutien est crucial pour continuer à créer du contenu de qualité et à améliorer mes projets. Merci du fond du cœur pour votre générosité !
+Votre soutien est crucial pour continuer à créer du contenu de qualité et à améliorer mes projets.
 
 ## Où va votre soutien ?
 
 Tout le soutien financier reçu sera réinvesti dans le développement de nouveaux projets, l'amélioration du contenu existant, et le maintien des ressources en ligne. Chaque contribution compte et contribue directement à la croissance de ce travail.
 
-Merci encore pour votre soutien continu. Je suis reconnaissant de pouvoir partager mon travail avec une communauté aussi fantastique !
+Merci encore pour votre soutien. Je suis reconnaissant de pouvoir partager mon travail
 
 
 # Author
-iSweat (isweat-exe)
+- iSweat (isweat-exe)
