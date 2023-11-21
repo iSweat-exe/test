@@ -1,25 +1,16 @@
-# Projet Web Fantastique
+# Pack de Boutons HTML/CSS
 
-## Objectif du Projet
-Le Projet Web Fantastique vise à créer une interface moderne et épurée en utilisant les technologies web telles que HTML, CSS et JavaScript. L'esthétique du design suivra les principes du glassmorphism pour donner une apparence transparente et moderne.
+## Description
+Bienvenue dans le Pack de Boutons HTML/CSS ! Ce projet a pour objectif de fournir un ensemble de boutons stylisés pour être utilisés dans vos projets web. Les boutons sont créés en utilisant les langages HTML et CSS, avec un design moderne et épuré.
 
-## Fonctionnalités
-- Affichage d'une page d'accueil attrayante avec des éléments de design glassmorphism.
-- Navigation fluide entre différentes sections du site.
-- Intégration de fonctionnalités interactives grâce à JavaScript.
-- Utilisation de CSS pour assurer une présentation responsive sur différents appareils.
+## Contenu du Projet
+Le pack comprend plusieurs styles de boutons, chacun ayant sa propre apparence distincte. Vous pouvez facilement copier et coller le code HTML et CSS associé pour intégrer ces boutons dans vos pages web.
 
-## Structure du Projet
-Le projet est organisé de la manière suivante :
-- **index.html**: Fichier principal contenant la structure de la page web.
-- **style.css**: Feuille de style pour le design, en mettant l'accent sur le glassmorphism.
-- **script.js**: Fichier JavaScript pour ajouter des fonctionnalités interactives.
+## Mises à Jour
+Ce projet sera probablement mis à jour régulièrement pour introduire de nouvelles fonctionnalités, améliorer le design, ou ajouter de nouveaux types de boutons. N'hésitez pas à revenir souvent pour bénéficier des dernières améliorations !
 
-## Instructions d'Installation
+## Utilisation
 1. Clonez ce dépôt sur votre machine locale.
-2. Ouvrez le fichier index.html dans votre navigateur préféré.
-
-## Auteur
-[Your Name]
-
-N'hésitez pas à personnaliser ce README en fonction des détails spécifiques de votre projet. Si tu as des questions ou des demandes spécifiques, n'hésite pas à les mentionner.
+2. Choisissez le style de bouton que vous souhaitez utiliser.
+3. Copiez le code HTML et CSS associé.
+4. Intégrez le code dans votre projet web.
