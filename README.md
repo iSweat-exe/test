@@ -21,10 +21,7 @@ Ce projet sera probablement mis à jour régulièrement pour introduire de nouve
 
 Si vous appréciez mon travail et souhaitez me soutenir financièrement, vous pouvez le faire en utilisant l'un des moyens suivants :
 
-- [Buy Me a Coffee](lien_vers_votre_profil_buymeacoffee)
-- [Tipeee](lien_vers_votre_profil_tipeee)
-- [PayPal Me](lien_vers_votre_profil_paypalme)
-- [Autre Plateforme de Don](lien_vers_autre_plateforme_de_don)
+- Paypal : Bientot...
 
 Votre soutien est crucial pour continuer à créer du contenu de qualité et à améliorer mes projets.
 
